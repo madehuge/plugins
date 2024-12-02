@@ -1,0 +1,20 @@
+/* blocks/news-block/style.css */
+.news-block {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.news-block h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.news-block ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.news-block li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
